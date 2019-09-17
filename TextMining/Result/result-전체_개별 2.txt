@@ -1,0 +1,1524 @@
+C:\Utill\Python\python.exe C:/Alrescha/Research/textmine_17.08_07/textmine_17.07.21/textmine_17.07.19/textmine/LDA_2.py
+Start extracting all document from given excel
+End extracting all document from given excel
+Generating All Doc LDA Processing
+Start deleting non-necessery term by frequency
+system 805
+Done
+Start extracting document from given excel - document
+End extracting document from given excel - document
+Processing making LDA_KWK Class
+Making LDA_KWK Class is done
+Start Making Cosine Sim matrix
+All  Topic Number :  0 Terms :  ['configur', 'process', 'output', 'predetermin', 'direct', 'speed', 'point', 'calcul', 'indic', 'portion', 'sens', 'target', 'surfac', 'destin', 'connect', 'select', 'commun', 'path', 'input', 'area']
+All  Topic Number :  1 Terms :  ['direct', 'connect', 'output', 'point', 'support', 'portion', 'process', 'calcul', 'indic', 'speed', 'predetermin', 'comput', 'end', 'commun', 'destin', 'area', 'set', 'sens', 'movement', 'select']
+All  Topic Number :  2 Terms :  ['direct', 'connect', 'commun', 'distanc', 'user', 'speed', 'calcul', 'process', 'predetermin', 'support', 'configur', 'output', 'destin', 'valu', 'point', 'member', 'portion', 'indic', 'select', 'target']
+All  Topic Number :  3 Terms :  ['direct', 'point', 'calcul', 'predetermin', 'path', 'set', 'output', 'movement', 'connect', 'surfac', 'select', 'comput', 'member', 'commun', 'portion', 'support', 'input', 'configur', 'light', 'speed']
+All  Topic Number :  4 Terms :  ['direct', 'configur', 'path', 'portion', 'output', 'connect', 'set', 'sens', 'member', 'process', 'speed', 'support', 'processor', 'commun', 'select', 'point', 'comput', 'user', 'light', 'distanc']
+All  Topic Number :  5 Terms :  ['direct', 'calcul', 'point', 'distanc', 'portion', 'configur', 'predetermin', 'connect', 'rotat', 'indic', 'select', 'movement', 'commun', 'respect', 'target', 'process', 'sens', 'input', 'set', 'respons']
+All  Topic Number :  6 Terms :  ['direct', 'point', 'predetermin', 'process', 'portion', 'commun', 'motor', 'output', 'user', 'connect', 'movement', 'input', 'configur', 'indic', 'refer', 'area', 'path', 'target', 'speed', 'calcul']
+All  Topic Number :  7 Terms :  ['direct', 'process', 'output', 'indic', 'point', 'configur', 'select', 'portion', 'movement', 'destin', 'member', 'calcul', 'refer', 'mount', 'distanc', 'path', 'support', 'left', 'rotat', 'processor']
+All  Topic Number :  8 Terms :  ['indic', 'portion', 'configur', 'direct', 'measur', 'commun', 'target', 'rotat', 'connect', 'movement', 'member', 'output', 'point', 'mount', 'area', 'distanc', 'valu', 'speed', 'predetermin', 'destin']
+All  Topic Number :  9 Terms :  ['point', 'direct', 'speed', 'process', 'commun', 'set', 'connect', 'motor', 'configur', 'valu', 'distanc', 'movement', 'predetermin', 'indic', 'portion', 'path', 'member', 'sens', 'target', 'mount']
+All  Topic Number :  10 Terms :  ['direct', 'point', 'connect', 'predetermin', 'configur', 'process', 'output', 'portion', 'commun', 'indic', 'speed', 'calcul', 'support', 'member', 'movement', 'select', 'set', 'distanc', 'path', 'target']
+All  Topic Number :  11 Terms :  ['process', 'direct', 'output', 'predetermin', 'configur', 'commun', 'connect', 'mount', 'member', 'point', 'speed', 'destin', 'target', 'sens', 'set', 'portion', 'indic', 'support', 'camera', 'movement']
+All  Topic Number :  12 Terms :  ['direct', 'connect', 'process', 'speed', 'member', 'configur', 'movement', 'portion', 'indic', 'predetermin', 'target', 'select', 'point', 'support', 'distanc', 'area', 'measur', 'sens', 'respons', 'commun']
+All  Topic Number :  13 Terms :  ['direct', 'process', 'point', 'predetermin', 'distanc', 'processor', 'support', 'area', 'portion', 'connect', 'configur', 'calcul', 'light', 'speed', 'indic', 'commun', 'movement', 'measur', 'destin', 'mount']
+All  Topic Number :  14 Terms :  ['configur', 'predetermin', 'output', 'direct', 'connect', 'set', 'movement', 'input', 'process', 'calcul', 'distanc', 'member', 'motor', 'point', 'path', 'commun', 'indic', 'camera', 'support', 'target']
+All  Topic Number :  15 Terms :  ['direct', 'calcul', 'portion', 'support', 'speed', 'connect', 'movement', 'process', 'commun', 'indic', 'output', 'area', 'configur', 'point', 'predetermin', 'distanc', 'set', 'respect', 'valu', 'path']
+All  Topic Number :  16 Terms :  ['point', 'portion', 'output', 'direct', 'predetermin', 'process', 'sens', 'calcul', 'movement', 'support', 'indic', 'select', 'connect', 'set', 'member', 'configur', 'correspond', 'commun', 'automat', 'speed']
+All  Topic Number :  17 Terms :  ['connect', 'point', 'support', 'configur', 'indic', 'direct', 'set', 'process', 'predetermin', 'calcul', 'speed', 'path', 'output', 'input', 'select', 'movement', 'member', 'along', 'respect', 'mount']
+All  Topic Number :  18 Terms :  ['direct', 'select', 'member', 'point', 'output', 'support', 'commun', 'connect', 'target', 'distanc', 'configur', 'process', 'speed', 'indic', 'portion', 'light', 'along', 'valu', 'current', 'predetermin']
+All  Topic Number :  19 Terms :  ['sideview', 'exampl', 'slice', 'brightest', 'predetermin', 'configur', 'calcul', 'connect', 'direct', 'process', 'movement', 'commun', 'two', 'portion', 'distanc', 'select', 'input', 'point', 'left', 'measur']
+All  Topic Number :  20 Terms :  ['portion', 'direct', 'connect', 'point', 'output', 'select', 'commun', 'configur', 'indic', 'predetermin', 'movement', 'speed', 'path', 'area', 'set', 'destin', 'mount', 'support', 'target', 'sens']
+All  Topic Number :  21 Terms :  ['point', 'direct', 'calcul', 'output', 'commun', 'camera', 'connect', 'path', 'process', 'set', 'sens', 'left', 'portion', 'member', 'processor', 'indic', 'destin', 'distanc', 'surfac', 'motor']
+All  Topic Number :  22 Terms :  ['direct', 'configur', 'connect', 'portion', 'calcul', 'input', 'commun', 'area', 'output', 'support', 'set', 'path', 'member', 'line', 'process', 'distanc', 'predetermin', 'surfac', 'current', 'sens']
+All  Topic Number :  23 Terms :  ['select', 'direct', 'speed', 'input', 'point', 'indic', 'set', 'movement', 'commun', 'configur', 'process', 'target', 'predetermin', 'output', 'calcul', 'processor', 'support', 'connect', 'valu', 'portion']
+All  Topic Number :  24 Terms :  ['connect', 'calcul', 'set', 'output', 'distanc', 'area', 'predetermin', 'configur', 'direct', 'valu', 'commun', 'member', 'path', 'indic', 'support', 'sens', 'portion', 'process', 'select', 'movement']
+End of Making Cos Sim Matrix
+
+
+Start Clustering
+ K value :  50 / L value :  5 / Multipler :  0.4 / Number of first Center :  5 / All Topic number :  25 / Number of terms in All :  20 / Term Pass count :  20 Individual Topic Number :  7 Individual Terms number :  20 
+
+
+Starting Choosing
+Finishing Posibility Choosing : 129
+Reducing Start
+129
+128
+127
+126
+125
+124
+123
+122
+121
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+Reducing Done
+
+
+Center Number :  0 Doc list :  [11, 23, 37, 47, 79, 90, 92, 107, 111, 146, 157, 180, 187, 191, 192, 222, 229, 239, 269, 284, 293, 298, 306, 352, 356, 379, 386, 390, 399, 405, 408, 434, 435, 439, 441, 458, 459, 471, 513, 533, 571, 572, 574, 588, 590, 608, 613, 619, 620, 633, 639, 641, 649, 662]
+Center Number :  1 Doc list :  [1, 9, 77, 105, 110, 119, 126, 135, 188, 189, 241, 264, 267, 278, 290, 305, 322, 327, 375, 409, 418, 436, 442, 452, 478, 502, 507, 512, 532, 544, 570, 575, 591, 601, 623, 630, 663]
+Center Number :  2 Doc list :  [514]
+Center Number :  3 Doc list :  [6, 15, 20, 67, 70, 89, 169, 277, 336, 385, 393, 406, 449, 453, 456, 457, 492, 537, 576]
+Center Number :  4 Doc list :  [26, 49, 91, 150, 153, 174, 234, 243, 250, 296, 321, 347, 360, 422, 430, 477, 518, 519, 529, 536, 564, 569, 636]
+Center Number :  5 Doc list :  [142, 357, 404, 464, 523, 632, 655, 661]
+Center Number :  6 Doc list :  [8, 30, 33, 55, 63, 94, 106, 128, 139, 141, 144, 145, 154, 159, 163, 171, 173, 179, 186, 199, 205, 206, 238, 271, 279, 346, 354, 366, 370, 426, 437, 444, 479, 486, 509, 516, 525, 559, 577, 580, 592, 596, 605, 642, 671]
+Center Number :  7 Doc list :  [25, 36, 43, 88, 98, 309, 339, 349, 367, 384, 397, 470, 538, 539, 573, 650]
+Center Number :  8 Doc list :  [27, 32, 51, 113, 130, 158, 165, 226, 252, 276, 340, 341, 410, 440, 468, 474, 656, 666]
+Center Number :  9 Doc list :  [50, 58, 101, 134, 140, 208, 210, 218, 223, 224, 230, 236, 286, 331, 343, 351, 353, 382, 438, 465, 489, 521, 522, 546, 553, 558, 614, 629, 645, 651, 664, 667]
+Center Number :  10 Doc list :  [3, 12, 18, 34, 364, 417, 488, 491, 520, 524, 531, 552, 578, 611, 644, 652, 675]
+Center Number :  11 Doc list :  [83, 198, 311, 548]
+Center Number :  12 Doc list :  [2, 14, 38, 40, 57, 68, 71, 112, 177, 213, 233, 237, 257, 261, 272, 288, 289, 303, 329, 338, 342, 344, 363, 369, 373, 376, 377, 401, 424, 427, 429, 461, 462, 473, 476, 481, 567, 604, 609, 610]
+Center Number :  13 Doc list :  [64, 314, 319, 448, 482, 563]
+Center Number :  14 Doc list :  [69]
+Center Number :  15 Doc list :  [45, 72, 266, 396, 627, 628, 635]
+Center Number :  16 Doc list :  [310, 494, 593]
+Center Number :  17 Doc list :  [52, 54, 133, 214, 297, 323, 402, 594]
+Center Number :  18 Doc list :  [16, 17, 35, 74, 81, 85, 104, 253, 285, 328, 332, 348, 362, 433, 443, 463, 557, 586, 589, 606, 626, 634]
+Center Number :  19 Doc list :  [200, 540, 615]
+Center Number :  20 Doc list :  [46, 80, 103, 454, 551]
+Center Number :  21 Doc list :  [76, 108, 149, 392, 595, 669]
+Center Number :  22 Doc list :  [13, 115, 131, 162, 201, 282, 292, 381, 394, 403, 432, 445, 451, 493, 496, 501, 503, 565, 582, 584, 597, 598, 624, 637]
+Center Number :  23 Doc list :  [62, 82, 116, 255, 294, 308, 355, 618, 622, 625]
+Center Number :  24 Doc list :  [4, 99, 117, 122, 181, 220, 232, 242, 245, 291, 302, 315, 316, 345, 350, 374, 480, 541, 561, 562, 568, 621, 646]
+Center Number :  25 Doc list :  [87, 127, 170, 193, 194]
+Center Number :  26 Doc list :  [129, 178]
+Center Number :  27 Doc list :  [10, 41, 42, 60, 61, 66, 95, 100, 102, 114, 124, 125, 136, 138, 155, 160, 164, 167, 168, 176, 182, 195, 203, 207, 209, 228, 244, 246, 247, 248, 258, 260, 268, 283, 287, 307, 334, 337, 361, 368, 378, 380, 383, 387, 391, 398, 423, 431, 460, 483, 487, 497, 498, 508, 515, 534, 542, 543, 545, 549, 550, 554, 555, 560, 581, 585, 587, 599, 602, 603, 607, 638, 640, 643, 647, 654, 665, 670, 672, 673, 676, 678]
+Center Number :  28 Doc list :  [184, 219, 249, 428, 579, 657]
+Center Number :  29 Doc list :  [175, 217, 251, 273, 280, 295, 300, 335, 359, 395, 415, 499, 547, 653, 658]
+Center Number :  30 Doc list :  [78, 109, 152, 256, 371, 372, 447, 511]
+Center Number :  31 Doc list :  [84, 123, 151, 166, 185, 196, 197, 202, 216, 301, 326, 455, 495, 527, 631, 648]
+Center Number :  32 Doc list :  [7, 53, 93, 132, 190, 227, 235, 556, 583]
+Center Number :  33 Doc list :  [231]
+Center Number :  34 Doc list :  [240]
+Center Number :  35 Doc list :  [254]
+Center Number :  36 Doc list :  [259, 263, 274, 281, 312, 466, 467, 677]
+Center Number :  37 Doc list :  [304]
+Center Number :  38 Doc list :  [313]
+Center Number :  39 Doc list :  [21, 22, 73, 120, 137, 148, 183, 221, 225, 317, 324, 388, 389, 400, 411, 413, 414, 450, 475, 484, 485, 500, 530, 612, 659, 668]
+Center Number :  40 Doc list :  [28, 39, 48, 65, 143, 147, 156, 211, 212, 215, 299, 325, 446, 616, 660, 674]
+Center Number :  41 Doc list :  [320, 330, 504]
+Center Number :  42 Doc list :  [365]
+Center Number :  43 Doc list :  [407, 472]
+Center Number :  44 Doc list :  [19, 24, 29, 31, 56, 59, 75, 96, 97, 118, 121, 161, 172, 262, 270, 275, 333, 358, 412, 416, 420, 490, 510, 526, 528, 535, 617]
+Center Number :  45 Doc list :  [44, 86, 265, 318, 419, 566]
+Center Number :  46 Doc list :  [5, 204, 421, 505, 600]
+Center Number :  47 Doc list :  [425]
+Center Number :  48 Doc list :  [469, 517]
+Center Number :  49 Doc list :  [506]
+
+
+Counting Number :  1 
+
+
+
+
+
+
+Start Clustering
+ K value :  50 / L value :  5 / Multipler :  0.4 / Number of first Center :  5 / All Topic number :  25 / Number of terms in All :  20 / Term Pass count :  20 Individual Topic Number :  7 Individual Terms number :  20 
+
+
+Starting Choosing
+Finishing Posibility Choosing : 130
+Reducing Start
+130
+129
+128
+127
+126
+125
+124
+123
+122
+121
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+Reducing Done
+
+
+Center Number :  0 Doc list :  [62, 101, 116, 315, 332, 392, 447, 521, 634]
+Center Number :  1 Doc list :  [10, 213, 595]
+Center Number :  2 Doc list :  [4, 12, 162, 177, 204, 232, 292, 381, 403, 433, 451, 501, 578, 621, 652]
+Center Number :  3 Doc list :  [6, 44, 56, 64, 118, 161, 265, 319, 333, 336, 396, 402, 406, 448, 490, 510, 526, 535, 563, 566, 569, 576, 617]
+Center Number :  4 Doc list :  [34, 299, 417, 452, 520, 531, 532]
+Center Number :  5 Doc list :  [21, 22, 41, 53, 76, 87, 93, 108, 113, 123, 125, 127, 136, 138, 148, 149, 155, 160, 164, 167, 176, 182, 190, 193, 221, 246, 248, 258, 287, 307, 334, 337, 368, 380, 383, 391, 398, 411, 423, 431, 450, 455, 460, 483, 487, 497, 498, 527, 534, 543, 545, 549, 550, 554, 560, 581, 585, 587, 603, 607, 638, 640, 643, 648, 656, 673, 678]
+Center Number :  6 Doc list :  [25, 36, 43, 58, 88, 98, 112, 157, 224, 373, 384, 397, 424, 427, 461, 539, 567, 572, 573, 597, 598, 629]
+Center Number :  7 Doc list :  [255, 286, 339, 355, 374, 494, 544, 548, 553]
+Center Number :  8 Doc list :  [2, 14, 38, 40, 68, 71, 233, 237, 257, 261, 288, 289, 293, 303, 329, 338, 344, 363, 369, 377, 386, 401, 429, 462, 473, 481, 571, 584, 588, 604, 609, 610]
+Center Number :  9 Doc list :  [15, 46, 385, 449]
+Center Number :  10 Doc list :  [8, 30, 55, 63, 94, 106, 128, 139, 141, 144, 145, 154, 159, 163, 173, 186, 205, 206, 271, 279, 346, 354, 366, 370, 444, 479, 486, 509, 516, 525, 559, 577, 580, 592, 605, 642, 671]
+Center Number :  11 Doc list :  [72, 254, 313, 469, 517, 628, 635]
+Center Number :  12 Doc list :  [24, 29, 31, 54, 75, 96, 97, 121, 172, 262, 416, 528]
+Center Number :  13 Doc list :  [16, 35, 81, 85, 104, 126, 188, 189, 220, 253, 264, 290, 309, 327, 328, 348, 349, 367, 409, 418, 442, 443, 463, 470, 478, 538, 570, 586, 589, 623, 646, 650]
+Center Number :  14 Doc list :  [80, 103, 454]
+Center Number :  15 Doc list :  [52, 133, 214, 318, 323, 594]
+Center Number :  16 Doc list :  [83, 198, 311]
+Center Number :  17 Doc list :  [5, 73, 230, 415, 421, 425, 476, 505, 600]
+Center Number :  18 Doc list :  [28, 39, 48, 74, 109, 147, 153, 201, 211, 316, 347, 404, 445, 446, 493, 524, 565, 611, 616, 644, 660, 674]
+Center Number :  19 Doc list :  [1, 77, 105, 110, 156, 243, 250, 267, 278, 305, 322, 362, 436, 491, 502, 512, 564, 591, 601, 622, 630, 663]
+Center Number :  20 Doc list :  [23, 47, 84, 107, 137, 151, 170, 183, 187, 197, 217, 256, 284, 324, 326, 335, 342, 408, 440, 484, 485, 499, 500, 511, 556, 590, 631, 641, 659]
+Center Number :  21 Doc list :  [13, 82, 115, 131, 152, 245, 282, 350, 394, 432, 496, 503, 557, 568, 582, 624, 637, 667]
+Center Number :  22 Doc list :  [117, 269]
+Center Number :  23 Doc list :  [27, 32, 51, 130, 158, 165, 226, 239, 252, 276, 340, 341, 410, 413, 468, 474, 666]
+Center Number :  24 Doc list :  [120, 168]
+Center Number :  25 Doc list :  [175, 227, 273, 280, 294, 295, 300, 308, 359, 395, 583, 653, 658]
+Center Number :  26 Doc list :  [45, 65, 143, 212, 215, 231, 297, 325, 358, 472]
+Center Number :  27 Doc list :  [184, 219, 249, 579, 657]
+Center Number :  28 Doc list :  [33, 95, 171, 179, 195, 199, 203, 225, 228, 238, 268, 361, 387, 426, 437, 475, 542, 596, 602]
+Center Number :  29 Doc list :  [99, 122, 181, 242, 251, 291, 296, 302, 343, 345, 382, 480, 541, 546, 561, 562]
+Center Number :  30 Doc list :  [20, 200, 266, 277, 466, 467, 615]
+Center Number :  31 Doc list :  [7, 146, 207, 209, 247, 283, 405, 428, 647]
+Center Number :  32 Doc list :  [78, 166, 185, 196, 202, 216, 301, 495]
+Center Number :  33 Doc list :  [240, 618, 625]
+Center Number :  34 Doc list :  [100, 260, 317, 388, 389, 471, 613, 619, 668, 669, 676]
+Center Number :  35 Doc list :  [69, 263, 274]
+Center Number :  36 Doc list :  [304, 371, 372, 514]
+Center Number :  37 Doc list :  [310, 593]
+Center Number :  38 Doc list :  [259, 281, 312, 314, 419, 540, 677]
+Center Number :  39 Doc list :  [320, 330, 551]
+Center Number :  40 Doc list :  [134, 140, 142, 218, 351, 353, 357, 438, 464, 465, 489, 522, 523, 558, 632, 655, 661]
+Center Number :  41 Doc list :  [11, 17, 50, 90, 111, 192, 194, 208, 210, 223, 236, 298, 331, 352, 376, 379, 390, 399, 434, 435, 441, 458, 459, 513, 533, 547, 574, 614, 620, 626, 633, 645, 651, 664]
+Center Number :  42 Doc list :  [407]
+Center Number :  43 Doc list :  [9, 59, 119, 241, 270, 275, 375, 412, 453, 507, 675]
+Center Number :  44 Doc list :  [26, 420, 456, 457, 482]
+Center Number :  45 Doc list :  [3, 91, 174, 285, 422, 506, 519, 529, 606]
+Center Number :  46 Doc list :  [18, 19, 49, 135, 150, 234, 321, 360, 364, 430, 477, 488, 518, 536, 552, 575, 627, 636]
+Center Number :  47 Doc list :  [67, 86, 89, 129, 169, 178, 365, 393, 492, 537]
+Center Number :  48 Doc list :  [70, 504]
+Center Number :  49 Doc list :  [37, 42, 57, 60, 61, 66, 79, 92, 102, 114, 124, 132, 180, 191, 222, 229, 235, 244, 272, 306, 356, 378, 400, 414, 439, 508, 515, 530, 555, 599, 608, 612, 639, 649, 654, 662, 665, 670, 672]
+
+
+Counting Number :  2 
+
+
+
+
+
+
+Start Clustering
+ K value :  50 / L value :  5 / Multipler :  0.4 / Number of first Center :  5 / All Topic number :  25 / Number of terms in All :  20 / Term Pass count :  20 Individual Topic Number :  7 Individual Terms number :  20 
+
+
+Starting Choosing
+Finishing Posibility Choosing : 130
+Reducing Start
+130
+129
+128
+127
+126
+125
+124
+123
+122
+121
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+Reducing Done
+
+
+Center Number :  0 Doc list :  [1, 16, 35, 85, 104, 105, 126, 188, 267, 290, 299, 305, 309, 328, 349, 367, 409, 417, 418, 443, 470, 478, 502, 520, 524, 531, 532, 538, 544, 570, 611, 623, 644, 650]
+Center Number :  1 Doc list :  [2, 23, 73, 84, 137, 146, 151, 164, 170, 183, 187, 190, 197, 229, 239, 293, 317, 324, 326, 342, 363, 386, 388, 389, 400, 401, 429, 440, 471, 473, 484, 485, 500, 527, 530, 556, 588, 590, 608, 609, 619, 659]
+Center Number :  2 Doc list :  [3, 34, 491, 578, 652, 675]
+Center Number :  3 Doc list :  [254, 313, 469, 517, 635]
+Center Number :  4 Doc list :  [6, 15, 20, 67, 259, 277, 336, 365, 393, 406, 449, 454, 492]
+Center Number :  5 Doc list :  [7, 21, 22, 41, 53, 61, 66, 76, 87, 93, 120, 123, 138, 148, 155, 160, 167, 168, 176, 182, 207, 209, 221, 225, 235, 244, 246, 247, 248, 268, 283, 287, 307, 334, 337, 361, 368, 380, 423, 428, 431, 450, 455, 460, 475, 487, 497, 498, 515, 534, 543, 545, 549, 550, 554, 560, 581, 585, 587, 603, 607, 638, 640, 643, 647, 648, 668, 672, 673, 676, 678]
+Center Number :  6 Doc list :  [8, 30, 33, 55, 63, 94, 106, 139, 141, 145, 154, 159, 163, 173, 179, 186, 205, 206, 271, 279, 346, 354, 366, 370, 444, 479, 486, 509, 516, 525, 559, 580, 592, 605, 671]
+Center Number :  7 Doc list :  [10, 42]
+Center Number :  8 Doc list :  [91, 174, 285, 350, 371, 372, 422, 506, 519, 529, 606]
+Center Number :  9 Doc list :  [44, 56, 64, 86, 96, 161, 169, 265, 333, 448, 456, 457, 482, 510, 535, 537, 563, 566, 569, 576, 617]
+Center Number :  10 Doc list :  [24, 26, 75, 420, 528]
+Center Number :  11 Doc list :  [29, 49, 97, 135, 150, 215, 234, 243, 250, 262, 278, 360, 430, 472, 477, 488, 518, 536, 552, 575, 627, 630, 636]
+Center Number :  12 Doc list :  [69, 312, 314, 504, 540, 677]
+Center Number :  13 Doc list :  [122, 181, 220, 242, 291, 296, 302, 321, 345, 374, 480, 541, 561]
+Center Number :  14 Doc list :  [25, 36, 40, 43, 88, 98, 112, 157, 233, 237, 257, 288, 289, 329, 344, 369, 373, 384, 397, 415, 424, 427, 441, 462, 468, 476, 481, 533, 539, 567, 571, 572, 573, 584, 597, 598, 604, 610, 629]
+Center Number :  15 Doc list :  [46, 80, 103]
+Center Number :  16 Doc list :  [70, 89, 385]
+Center Number :  17 Doc list :  [81, 586, 628]
+Center Number :  18 Doc list :  [52, 54, 143, 214, 297, 323, 358, 402, 594]
+Center Number :  19 Doc list :  [83, 198, 311, 548]
+Center Number :  20 Doc list :  [4, 5, 101, 131, 315, 316, 381, 421, 501, 521, 565, 600]
+Center Number :  21 Doc list :  [110, 546, 601, 667]
+Center Number :  22 Doc list :  [200, 419, 615]
+Center Number :  23 Doc list :  [28, 39, 48, 62, 65, 74, 109, 147, 156, 211, 325, 347, 348, 404, 445, 446, 589, 616, 660, 674]
+Center Number :  24 Doc list :  [12, 13, 17, 115, 152, 162, 177, 201, 204, 232, 245, 253, 282, 292, 394, 395, 403, 432, 433, 451, 463, 493, 496, 503, 511, 557, 562, 568, 582, 621, 624, 637]
+Center Number :  25 Doc list :  [117, 269, 304]
+Center Number :  26 Doc list :  [9, 59, 119, 241, 270, 275, 375, 412, 442, 452, 453, 507, 514]
+Center Number :  27 Doc list :  [95, 125, 128, 136, 144, 171, 195, 199, 203, 228, 238, 258, 387, 391, 398, 426, 437, 483, 577, 596, 602, 642, 654]
+Center Number :  28 Doc list :  [133, 318, 416]
+Center Number :  29 Doc list :  [38, 50, 58, 68, 134, 140, 142, 218, 223, 224, 230, 286, 338, 339, 351, 353, 357, 376, 438, 461, 464, 465, 489, 513, 522, 523, 553, 558, 626, 632, 651, 655, 661, 664]
+Center Number :  30 Doc list :  [184, 219, 249, 579, 657]
+Center Number :  31 Doc list :  [100, 108, 149, 213, 260, 392, 595, 613, 669]
+Center Number :  32 Doc list :  [129, 178]
+Center Number :  33 Doc list :  [78, 166, 185, 196, 202, 216, 256, 301, 495, 631]
+Center Number :  34 Doc list :  [127, 193, 194]
+Center Number :  35 Doc list :  [11, 14, 47, 90, 107, 111, 192, 208, 210, 217, 236, 251, 261, 284, 303, 331, 335, 343, 352, 379, 382, 399, 405, 408, 434, 435, 458, 459, 499, 547, 574, 614, 620, 633, 645]
+Center Number :  36 Doc list :  [231]
+Center Number :  37 Doc list :  [172, 266]
+Center Number :  38 Doc list :  [37, 57, 60, 71, 79, 92, 102, 114, 124, 132, 180, 191, 222, 227, 272, 298, 306, 356, 377, 378, 390, 414, 439, 508, 555, 583, 599, 612, 639, 641, 649, 662, 665, 670]
+Center Number :  39 Doc list :  [263, 274, 281]
+Center Number :  40 Doc list :  [82, 116, 175, 240, 255, 273, 280, 294, 295, 300, 308, 355, 359, 494, 618, 622, 625, 653, 658]
+Center Number :  41 Doc list :  [310, 593]
+Center Number :  42 Doc list :  [319, 490, 526]
+Center Number :  43 Doc list :  [320, 330, 551]
+Center Number :  44 Doc list :  [18, 19, 31, 45, 72, 77, 118, 121, 212, 364, 396]
+Center Number :  45 Doc list :  [411]
+Center Number :  46 Doc list :  [425, 505]
+Center Number :  47 Doc list :  [27, 32, 51, 113, 130, 158, 165, 226, 252, 276, 340, 341, 383, 410, 413, 474, 542, 656, 666]
+Center Number :  48 Doc list :  [407, 466, 467]
+Center Number :  49 Doc list :  [99, 153, 189, 264, 322, 327, 332, 362, 436, 447, 512, 564, 591, 634, 646, 663]
+
+
+Counting Number :  3 
+
+
+
+
+
+
+Start Clustering
+ K value :  50 / L value :  5 / Multipler :  0.4 / Number of first Center :  5 / All Topic number :  25 / Number of terms in All :  20 / Term Pass count :  20 Individual Topic Number :  7 Individual Terms number :  20 
+
+
+Starting Choosing
+Finishing Posibility Choosing : 129
+Reducing Start
+129
+128
+127
+126
+125
+124
+123
+122
+121
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+Reducing Done
+
+
+Center Number :  0 Doc list :  [514]
+Center Number :  1 Doc list :  [3, 34, 121, 266, 469, 491, 517, 635, 652, 675]
+Center Number :  2 Doc list :  [15, 89, 96, 161, 297, 319, 333, 336, 385, 396, 406, 490, 526, 535, 576]
+Center Number :  3 Doc list :  [528]
+Center Number :  4 Doc list :  [2, 11, 14, 38, 47, 57, 68, 71, 90, 111, 146, 170, 187, 192, 208, 210, 213, 217, 236, 239, 251, 257, 261, 269, 289, 293, 298, 303, 338, 352, 356, 363, 377, 379, 386, 388, 389, 390, 399, 401, 405, 408, 429, 435, 458, 459, 462, 471, 473, 476, 513, 556, 574, 588, 604, 608, 609, 613, 614, 619, 620, 633, 659, 662]
+Center Number :  5 Doc list :  [13, 18, 28, 35, 65, 85, 126, 162, 188, 201, 211, 253, 290, 309, 328, 348, 367, 409, 418, 443, 445, 446, 463, 470, 478, 493, 524, 570, 589, 611, 623, 644, 650, 660, 674]
+Center Number :  6 Doc list :  [299, 417, 520, 531, 532]
+Center Number :  7 Doc list :  [6, 20, 67, 70, 169, 259, 277, 449, 466, 492, 537]
+Center Number :  8 Doc list :  [19, 24, 26, 29, 31, 59, 75, 97, 118, 172, 262, 270, 275, 412, 420, 488, 552]
+Center Number :  9 Doc list :  [25, 36, 40, 43, 88, 98, 112, 233, 237, 282, 288, 329, 339, 369, 373, 384, 397, 403, 424, 427, 441, 461, 533, 539, 567, 571, 572, 573, 584, 597, 598, 629]
+Center Number :  10 Doc list :  [52, 416]
+Center Number :  11 Doc list :  [44, 64, 86, 265, 402, 419, 448, 456, 457, 482, 566]
+Center Number :  12 Doc list :  [49, 56, 91, 150, 234, 360, 364, 477, 510, 518, 519, 529, 563, 569, 617, 627]
+Center Number :  13 Doc list :  [8, 30, 33, 55, 63, 94, 106, 128, 139, 141, 144, 145, 154, 159, 163, 171, 173, 179, 184, 186, 205, 206, 249, 271, 279, 346, 354, 366, 370, 444, 479, 486, 509, 516, 525, 559, 577, 579, 580, 592, 605, 642, 657, 671]
+Center Number :  14 Doc list :  [69, 313, 407]
+Center Number :  15 Doc list :  [72]
+Center Number :  16 Doc list :  [78, 137, 152, 256, 500, 511]
+Center Number :  17 Doc list :  [21, 22, 73, 87, 127, 155, 182, 193, 203, 221, 287, 317, 340, 341, 383, 400, 411, 413, 440, 497, 498, 542, 581, 596, 603, 656, 678]
+Center Number :  18 Doc list :  [83, 110, 119, 135, 198, 267, 322, 355, 374, 494, 502, 507, 544, 548, 575, 591, 593, 601]
+Center Number :  19 Doc list :  [200, 312, 314, 467, 540, 615]
+Center Number :  20 Doc list :  [46, 80, 103, 263, 274, 281, 454, 551]
+Center Number :  21 Doc list :  [12, 117, 245, 285, 292, 349, 501, 568, 578, 621, 637, 646]
+Center Number :  22 Doc list :  [9, 241, 305, 442, 452, 622]
+Center Number :  23 Doc list :  [240, 294, 308, 359, 618, 625]
+Center Number :  24 Doc list :  [50, 58, 82, 101, 116, 134, 140, 142, 218, 223, 224, 255, 331, 343, 351, 353, 357, 382, 434, 438, 464, 465, 489, 521, 522, 546, 547, 553, 558, 626, 645, 651, 655, 661, 664, 667]
+Center Number :  25 Doc list :  [81, 586, 628]
+Center Number :  26 Doc list :  [37, 42, 120, 168, 183, 225, 228, 238, 268, 414, 426, 437, 475, 649]
+Center Number :  27 Doc list :  [7, 41, 53, 76, 93, 95, 113, 123, 125, 136, 138, 148, 160, 167, 176, 207, 209, 235, 246, 247, 248, 258, 283, 334, 361, 368, 380, 387, 391, 398, 423, 428, 431, 450, 455, 460, 487, 515, 527, 534, 543, 545, 549, 550, 560, 585, 587, 602, 607, 638, 640, 643, 648, 668, 672, 673, 676]
+Center Number :  28 Doc list :  [129, 178]
+Center Number :  29 Doc list :  [23, 107, 157, 227, 284, 295, 324, 342, 344, 481, 484, 485, 583, 610, 641, 653]
+Center Number :  30 Doc list :  [100, 108, 149, 199, 595, 669]
+Center Number :  31 Doc list :  [39, 62, 74, 104, 109, 147, 153, 174, 189, 243, 327, 332, 347, 362, 371, 372, 447, 512, 564, 616, 634, 663]
+Center Number :  32 Doc list :  [156, 250, 422]
+Center Number :  33 Doc list :  [175, 273, 280, 300, 335, 415, 499, 658]
+Center Number :  34 Doc list :  [10, 60, 61, 66, 79, 92, 102, 114, 124, 132, 164, 180, 190, 191, 195, 219, 222, 229, 244, 260, 272, 306, 307, 337, 378, 439, 483, 508, 530, 554, 555, 590, 599, 612, 639, 647, 654, 665, 670]
+Center Number :  35 Doc list :  [4, 5, 17, 131, 177, 194, 204, 230, 315, 316, 376, 421, 433, 451, 600]
+Center Number :  36 Doc list :  [1, 16, 45, 48, 54, 77, 105, 143, 212, 278, 325, 436, 630]
+Center Number :  37 Doc list :  [133, 214, 318, 323, 594]
+Center Number :  38 Doc list :  [215, 311, 430, 472, 536, 636]
+Center Number :  39 Doc list :  [84, 151, 166, 185, 196, 197, 202, 216, 301, 326, 495, 631]
+Center Number :  40 Doc list :  [304]
+Center Number :  41 Doc list :  [320, 330, 504]
+Center Number :  42 Doc list :  [254, 365, 393, 677]
+Center Number :  43 Doc list :  [220, 231, 264, 358, 375, 404, 523, 538, 541]
+Center Number :  44 Doc list :  [115, 232, 310, 350, 381, 392, 394, 395, 432, 496, 503, 557, 562, 565, 582, 606, 624]
+Center Number :  45 Doc list :  [27, 32, 51, 130, 158, 165, 226, 252, 276, 410, 468, 474, 632, 666]
+Center Number :  46 Doc list :  [425, 505]
+Center Number :  47 Doc list :  [453]
+Center Number :  48 Doc list :  [99, 122, 181, 242, 286, 291, 296, 302, 321, 345, 480, 561]
+Center Number :  49 Doc list :  [506]
+
+
+Counting Number :  4 
+
+
+
+
+
+
+Start Clustering
+ K value :  50 / L value :  5 / Multipler :  0.4 / Number of first Center :  5 / All Topic number :  25 / Number of terms in All :  20 / Term Pass count :  20 Individual Topic Number :  7 Individual Terms number :  20 
+
+
+Starting Choosing
+Finishing Posibility Choosing : 129
+Reducing Start
+129
+128
+127
+126
+125
+124
+123
+122
+121
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+Reducing Done
+
+
+Center Number :  0 Doc list :  [41, 53, 60, 61, 66, 95, 100, 102, 114, 124, 125, 136, 138, 155, 160, 164, 176, 182, 195, 203, 235, 244, 246, 247, 248, 258, 283, 287, 334, 337, 361, 368, 380, 387, 391, 398, 431, 460, 483, 487, 497, 498, 508, 515, 534, 543, 545, 549, 550, 554, 555, 560, 581, 585, 587, 599, 602, 603, 607, 638, 640, 643, 654, 665, 670, 672, 673, 676, 678]
+Center Number :  1 Doc list :  [18, 19, 26, 31, 34, 49, 56, 77, 118, 121, 135, 150, 234, 262, 278, 360, 364, 396, 430, 477, 488, 491, 518, 536, 552, 575, 627, 630, 636, 675]
+Center Number :  2 Doc list :  [231, 404, 523, 541]
+Center Number :  3 Doc list :  [1, 9, 24, 29, 59, 75, 97, 119, 241, 267, 270, 275, 375, 412, 420, 507]
+Center Number :  4 Doc list :  [35, 126, 188, 220, 290, 309, 349, 367, 374, 409, 418, 470, 478, 538, 570, 623, 650]
+Center Number :  5 Doc list :  [12, 28, 39, 48, 65, 74, 109, 143, 147, 156, 211, 212, 250, 253, 299, 325, 347, 417, 443, 445, 446, 520, 524, 531, 532, 544, 578, 589, 611, 616, 644, 652, 660, 674]
+Center Number :  6 Doc list :  [8, 30, 33, 55, 63, 94, 106, 139, 141, 145, 154, 159, 163, 171, 179, 186, 205, 206, 271, 279, 346, 354, 366, 370, 444, 479, 486, 509, 516, 525, 559, 579, 580, 592, 596, 605, 642, 671]
+Center Number :  7 Doc list :  [27, 32, 51, 113, 130, 158, 165, 226, 229, 252, 276, 340, 341, 410, 413, 468, 474, 542, 656, 666]
+Center Number :  8 Doc list :  [320, 330, 551]
+Center Number :  9 Doc list :  [16, 99, 104, 105, 110, 153, 189, 243, 264, 285, 296, 302, 305, 321, 322, 327, 328, 362, 436, 442, 463, 480, 502, 512, 564, 591, 601, 622, 663]
+Center Number :  10 Doc list :  [4, 13, 115, 122, 131, 162, 181, 201, 204, 232, 242, 282, 291, 292, 315, 316, 345, 350, 381, 394, 403, 432, 493, 496, 501, 503, 557, 561, 562, 565, 582, 584, 624, 637]
+Center Number :  11 Doc list :  [25, 36, 43, 58, 88, 98, 107, 112, 157, 177, 223, 233, 237, 329, 369, 373, 384, 397, 424, 427, 441, 462, 513, 533, 539, 567, 571, 572, 573, 597, 598, 610, 614, 629, 641]
+Center Number :  12 Doc list :  [6, 20, 67, 86, 169, 200, 277, 365, 393, 419, 449, 492, 576, 615]
+Center Number :  13 Doc list :  [69]
+Center Number :  14 Doc list :  [78, 117, 152, 245, 335, 371, 372, 447, 511, 568, 606, 621]
+Center Number :  15 Doc list :  [80, 103]
+Center Number :  16 Doc list :  [81, 85, 586, 628]
+Center Number :  17 Doc list :  [310, 494, 593]
+Center Number :  18 Doc list :  [17, 50, 62, 82, 101, 116, 224, 230, 255, 332, 339, 343, 348, 351, 355, 395, 433, 451, 464, 521, 553, 558, 626, 634, 646, 651, 655, 664, 667]
+Center Number :  19 Doc list :  [11, 14, 23, 47, 90, 111, 146, 192, 208, 210, 236, 251, 261, 284, 298, 303, 331, 352, 363, 379, 382, 390, 399, 405, 408, 434, 435, 458, 459, 471, 481, 499, 547, 556, 574, 588, 619, 620, 633, 645, 662]
+Center Number :  20 Doc list :  [175, 240, 273, 280, 294, 295, 300, 308, 359, 618, 625, 653, 658]
+Center Number :  21 Doc list :  [37, 42, 120, 168, 183, 225, 228, 238, 268, 414, 426, 437, 475, 649]
+Center Number :  22 Doc list :  [134, 140, 142, 218, 286, 353, 357, 438, 465, 489, 522, 546, 632, 661]
+Center Number :  23 Doc list :  [108, 128, 144, 149, 173, 199, 577]
+Center Number :  24 Doc list :  [52, 133, 214, 318, 323, 402, 416, 594]
+Center Number :  25 Doc list :  [184, 207, 209, 219, 249, 428, 657]
+Center Number :  26 Doc list :  [70, 504, 677]
+Center Number :  27 Doc list :  [91, 174, 304, 422, 514, 519, 529]
+Center Number :  28 Doc list :  [54, 129, 178]
+Center Number :  29 Doc list :  [84, 151, 166, 185, 196, 197, 202, 216, 301, 326, 495, 631]
+Center Number :  30 Doc list :  [7, 79, 87, 127, 132, 170, 180, 190, 191, 193, 194, 222, 227, 306, 307, 342, 378, 383, 400, 429, 439, 440, 455, 484, 485, 527, 530, 583, 590, 608, 639, 647]
+Center Number :  31 Doc list :  [2, 10, 38, 40, 57, 68, 71, 92, 213, 239, 257, 269, 272, 288, 289, 293, 338, 344, 356, 376, 377, 386, 401, 461, 473, 476, 595, 604, 609, 613]
+Center Number :  32 Doc list :  [254]
+Center Number :  33 Doc list :  [46, 263]
+Center Number :  34 Doc list :  [172, 266, 506]
+Center Number :  35 Doc list :  [259, 274, 281, 466, 467]
+Center Number :  36 Doc list :  [83, 198, 311, 548]
+Center Number :  37 Doc list :  [312, 314, 540]
+Center Number :  38 Doc list :  [44, 265, 313, 448, 563, 569, 635]
+Center Number :  39 Doc list :  [15, 385]
+Center Number :  40 Doc list :  [392]
+Center Number :  41 Doc list :  [407, 472]
+Center Number :  42 Doc list :  [21, 22, 76, 93, 123, 148, 167, 221, 260, 411, 423, 450, 648, 668, 669]
+Center Number :  43 Doc list :  [452, 453]
+Center Number :  44 Doc list :  [45, 72, 336, 406, 454]
+Center Number :  45 Doc list :  [64, 456, 457, 482, 537, 566]
+Center Number :  46 Doc list :  [3, 469, 517]
+Center Number :  47 Doc list :  [89, 96, 161, 215, 297, 319, 333, 358, 490, 510, 526, 528, 535, 617]
+Center Number :  48 Doc list :  [137, 187, 256, 324, 500, 612, 659]
+Center Number :  49 Doc list :  [5, 73, 217, 317, 388, 389, 415, 421, 425, 505, 600]
+
+
+Counting Number :  5 
+
+
+
+
+
+
+Start Clustering
+ K value :  50 / L value :  5 / Multipler :  0.4 / Number of first Center :  5 / All Topic number :  25 / Number of terms in All :  20 / Term Pass count :  20 Individual Topic Number :  7 Individual Terms number :  20 
+
+
+Starting Choosing
+Finishing Posibility Choosing : 129
+Reducing Start
+129
+128
+127
+126
+125
+124
+123
+122
+121
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+Reducing Done
+
+
+Center Number :  0 Doc list :  [1, 9, 16, 24, 29, 77, 97, 105, 119, 121, 135, 241, 262, 267, 278, 290, 305, 322, 362, 375, 436, 442, 443, 488, 491, 502, 507, 528, 552, 586, 591, 601, 622, 630, 663]
+Center Number :  1 Doc list :  [304, 514]
+Center Number :  2 Doc list :  [5, 38, 58, 68, 71, 112, 134, 140, 142, 213, 218, 223, 224, 230, 257, 338, 339, 351, 353, 357, 373, 376, 390, 424, 427, 434, 438, 461, 464, 465, 489, 501, 513, 522, 558, 567, 571, 614, 629, 632, 651, 655, 661, 664]
+Center Number :  3 Doc list :  [3, 18, 26, 39, 104, 153, 232, 264, 285, 327, 347, 350, 478, 493, 519, 524, 529, 562, 564, 606, 652]
+Center Number :  4 Doc list :  [12, 34, 417, 452, 520, 531, 532, 578, 611, 644]
+Center Number :  5 Doc list :  [6, 20, 67, 169, 200, 277, 449, 537, 615]
+Center Number :  6 Doc list :  [312, 314, 330, 504, 540]
+Center Number :  7 Doc list :  [99, 122, 181, 220, 231, 291, 296, 302, 345, 404, 480, 523, 541, 561]
+Center Number :  8 Doc list :  [8, 30, 33, 55, 63, 94, 106, 128, 139, 141, 144, 145, 154, 159, 163, 171, 173, 179, 184, 186, 199, 205, 206, 228, 238, 249, 271, 279, 346, 354, 366, 370, 426, 437, 444, 479, 486, 509, 516, 525, 559, 577, 579, 580, 592, 596, 605, 642, 657, 671]
+Center Number :  9 Doc list :  [21, 22, 41, 53, 60, 66, 76, 87, 93, 95, 100, 102, 108, 113, 123, 125, 136, 138, 148, 149, 155, 158, 160, 167, 176, 182, 195, 203, 207, 209, 219, 221, 235, 244, 246, 247, 248, 258, 260, 268, 283, 287, 307, 317, 334, 337, 361, 368, 380, 387, 391, 398, 423, 428, 431, 450, 455, 460, 474, 475, 483, 487, 497, 498, 515, 534, 543, 545, 549, 550, 554, 555, 560, 581, 585, 587, 602, 603, 607, 638, 640, 643, 648, 654, 656, 668, 669, 672, 673, 676, 678]
+Center Number :  10 Doc list :  [83, 198, 311, 374, 544, 548, 553]
+Center Number :  11 Doc list :  [320, 551]
+Center Number :  12 Doc list :  [46, 80, 103, 263, 454]
+Center Number :  13 Doc list :  [64, 86, 96, 161, 265, 402, 419, 456, 457, 482, 535, 566]
+Center Number :  14 Doc list :  [10, 27, 32, 37, 42, 51, 57, 61, 73, 79, 92, 114, 124, 130, 132, 164, 165, 170, 180, 183, 190, 191, 222, 225, 226, 229, 239, 252, 276, 306, 340, 341, 356, 378, 383, 386, 388, 389, 400, 410, 413, 414, 429, 435, 439, 440, 471, 508, 527, 530, 542, 590, 595, 599, 608, 612, 613, 619, 639, 647, 649, 662, 665, 666, 670]
+Center Number :  15 Doc list :  [69]
+Center Number :  16 Doc list :  [72, 396]
+Center Number :  17 Doc list :  [81]
+Center Number :  18 Doc list :  [211, 310, 315, 316, 381, 392, 494, 565, 593, 600]
+Center Number :  19 Doc list :  [52, 54, 75, 297, 323, 416, 594]
+Center Number :  20 Doc list :  [15, 70, 89, 365, 385, 393, 492]
+Center Number :  21 Doc list :  [255, 355, 618]
+Center Number :  22 Doc list :  [7, 47, 107, 137, 146, 157, 177, 187, 217, 256, 269, 284, 324, 335, 500, 511, 556, 659]
+Center Number :  23 Doc list :  [13, 82, 131, 294, 308, 359, 395, 432, 451, 496, 503, 624, 625, 667]
+Center Number :  24 Doc list :  [120, 168]
+Center Number :  25 Doc list :  [17, 50, 62, 74, 101, 110, 116, 189, 332, 348, 433, 512, 521, 626, 634, 646, 660]
+Center Number :  26 Doc list :  [2, 14, 23, 25, 36, 40, 90, 98, 111, 115, 192, 227, 233, 237, 272, 288, 289, 293, 295, 298, 329, 342, 344, 363, 369, 377, 401, 415, 441, 462, 468, 473, 476, 481, 484, 485, 533, 572, 583, 584, 588, 604, 609, 610, 633, 641]
+Center Number :  27 Doc list :  [28, 48, 65, 143, 147, 212, 299, 325, 358, 616, 674]
+Center Number :  28 Doc list :  [4, 78, 109, 117, 152, 204, 242, 245, 371, 372, 421, 447, 568, 621, 637]
+Center Number :  29 Doc list :  [156, 250]
+Center Number :  30 Doc list :  [448, 677]
+Center Number :  31 Doc list :  [91, 174, 422]
+Center Number :  32 Doc list :  [175, 273, 280, 394, 653, 658]
+Center Number :  33 Doc list :  [59, 129, 172, 178, 266, 270, 412, 453]
+Center Number :  34 Doc list :  [127, 193, 194]
+Center Number :  35 Doc list :  [49, 150, 215, 234, 243, 321, 360, 364, 430, 477, 518, 536, 575, 636]
+Center Number :  36 Doc list :  [84, 151, 166, 185, 196, 197, 202, 216, 301, 326, 495, 631]
+Center Number :  37 Doc list :  [240]
+Center Number :  38 Doc list :  [254]
+Center Number :  39 Doc list :  [259, 274, 281, 466, 467]
+Center Number :  40 Doc list :  [133, 214, 318]
+Center Number :  41 Doc list :  [319, 490, 526]
+Center Number :  42 Doc list :  [35, 43, 85, 88, 126, 162, 188, 201, 253, 282, 292, 309, 328, 349, 367, 384, 397, 403, 409, 418, 445, 446, 463, 470, 538, 539, 557, 570, 573, 582, 589, 597, 598, 623, 650]
+Center Number :  43 Doc list :  [19, 31, 45, 56, 118, 275, 333, 336, 406, 420, 510, 563, 569, 576, 617, 627, 628, 635, 675]
+Center Number :  44 Doc list :  [411]
+Center Number :  45 Doc list :  [425, 505]
+Center Number :  46 Doc list :  [313, 469, 517]
+Center Number :  47 Doc list :  [44, 407, 472]
+Center Number :  48 Doc list :  [11, 208, 210, 236, 251, 261, 286, 300, 303, 331, 343, 352, 379, 382, 399, 405, 408, 458, 459, 499, 546, 547, 574, 620, 645]
+Center Number :  49 Doc list :  [506]
+
+
+Counting Number :  6 
+
+
+
+
+
+
+Start Clustering
+ K value :  50 / L value :  5 / Multipler :  0.4 / Number of first Center :  5 / All Topic number :  25 / Number of terms in All :  20 / Term Pass count :  20 Individual Topic Number :  7 Individual Terms number :  20 
+
+
+Starting Choosing
+Finishing Posibility Choosing : 130
+Reducing Start
+130
+129
+128
+127
+126
+125
+124
+123
+122
+121
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+Reducing Done
+
+
+Center Number :  0 Doc list :  [1, 16, 77, 105, 110, 156, 188, 189, 250, 264, 267, 290, 309, 322, 327, 328, 362, 367, 409, 418, 436, 443, 470, 502, 512, 524, 532, 538, 544, 570, 575, 589, 591, 601, 616, 623, 630, 663]
+Center Number :  1 Doc list :  [2, 23, 37, 73, 79, 90, 92, 137, 146, 170, 180, 183, 187, 190, 191, 222, 229, 239, 293, 298, 306, 324, 342, 356, 363, 386, 388, 389, 400, 429, 435, 440, 458, 459, 471, 484, 485, 500, 527, 530, 556, 588, 590, 608, 609, 612, 619, 633, 639, 641, 647, 659, 662]
+Center Number :  2 Doc list :  [6, 15, 20, 44, 67, 169, 277, 336, 365, 393, 402, 448, 449, 537, 563, 576]
+Center Number :  3 Doc list :  [91, 150, 153, 174, 350, 371, 372, 422, 514, 519, 529, 564, 569, 606, 636]
+Center Number :  4 Doc list :  [12, 35, 85, 162, 177, 204, 232, 253, 285, 292, 381, 433, 451, 463, 478, 496, 501, 520, 557, 562, 578, 621, 644]
+Center Number :  5 Doc list :  [3, 18, 19, 26, 34, 49, 104, 121, 135, 234, 278, 364, 417, 488, 491, 518, 552, 611, 627, 652, 675]
+Center Number :  6 Doc list :  [58, 126, 218, 224, 339, 349, 374, 548, 553, 558, 646, 650, 655]
+Center Number :  7 Doc list :  [13, 39, 62, 74, 109, 115, 116, 152, 315, 316, 332, 347, 394, 395, 432, 447, 493, 503, 565, 568, 582, 624, 634, 637]
+Center Number :  8 Doc list :  [54]
+Center Number :  9 Doc list :  [38, 40, 57, 68, 71, 112, 213, 257, 272, 338, 344, 369, 373, 376, 377, 390, 461, 465, 473, 476, 513, 567, 571, 604, 613, 649, 651]
+Center Number :  10 Doc list :  [69, 407]
+Center Number :  11 Doc list :  [46, 70, 385, 504]
+Center Number :  12 Doc list :  [80, 103, 454]
+Center Number :  13 Doc list :  [310, 494, 593]
+Center Number :  14 Doc list :  [52, 133, 214, 318, 323, 594]
+Center Number :  15 Doc list :  [17, 25, 36, 43, 50, 88, 98, 223, 329, 348, 384, 397, 424, 427, 434, 438, 441, 533, 539, 572, 573, 597, 598, 610, 626, 664]
+Center Number :  16 Doc list :  [240, 255, 294, 308, 355, 618, 625]
+Center Number :  17 Doc list :  [11, 14, 47, 107, 111, 157, 192, 208, 210, 217, 236, 251, 261, 269, 284, 300, 303, 352, 379, 382, 399, 405, 408, 462, 499, 511, 547, 574, 614, 620]
+Center Number :  18 Doc list :  [76, 108, 149, 199, 595, 669]
+Center Number :  19 Doc list :  [10, 41, 42, 60, 61, 66, 95, 100, 102, 114, 124, 125, 132, 136, 155, 160, 164, 176, 182, 195, 203, 235, 244, 248, 258, 287, 307, 334, 337, 361, 368, 378, 380, 383, 387, 398, 414, 431, 439, 460, 483, 487, 497, 498, 508, 515, 534, 542, 543, 545, 554, 555, 560, 581, 585, 587, 599, 603, 607, 638, 640, 643, 654, 665, 670, 672, 673, 678]
+Center Number :  20 Doc list :  [45, 72, 81, 406, 586, 628, 635]
+Center Number :  21 Doc list :  [140, 142, 353, 357, 464, 489, 522, 523, 632, 661]
+Center Number :  22 Doc list :  [21, 22, 87, 120, 148, 168, 221, 225, 268, 317, 411, 423, 450, 475, 668]
+Center Number :  23 Doc list :  [28, 48, 65, 143, 147, 212, 215, 297, 299, 325, 358, 396]
+Center Number :  24 Doc list :  [4, 5, 82, 101, 131, 134, 230, 245, 331, 343, 546, 600, 645, 667]
+Center Number :  25 Doc list :  [8, 30, 33, 55, 63, 94, 106, 128, 139, 141, 144, 145, 154, 159, 163, 171, 173, 179, 184, 186, 205, 206, 228, 238, 249, 271, 279, 346, 354, 366, 370, 426, 437, 444, 479, 486, 509, 516, 525, 559, 577, 579, 580, 592, 596, 602, 605, 642, 671]
+Center Number :  26 Doc list :  [24, 29, 31, 59, 75, 96, 97, 118, 161, 172, 262, 265, 270, 275, 333, 412, 416, 490, 510, 526, 528, 535, 617]
+Center Number :  27 Doc list :  [677]
+Center Number :  28 Doc list :  [127, 193, 194]
+Center Number :  29 Doc list :  [78, 84, 151, 166, 185, 196, 197, 202, 216, 256, 301, 326, 401, 495, 521, 631]
+Center Number :  30 Doc list :  [7, 53, 93, 123, 138, 167, 207, 209, 219, 246, 247, 260, 283, 391, 428, 455, 549, 550, 648, 657, 676]
+Center Number :  31 Doc list :  [243, 266, 360, 430, 472, 477, 506, 531, 536]
+Center Number :  32 Doc list :  [9, 119, 241, 305, 442, 452, 507, 622]
+Center Number :  33 Doc list :  [122, 181, 242, 286, 321, 345, 561]
+Center Number :  34 Doc list :  [254]
+Center Number :  35 Doc list :  [200, 259, 263, 274, 281, 312, 466, 467, 540, 615]
+Center Number :  36 Doc list :  [117, 304]
+Center Number :  37 Doc list :  [83, 129, 198, 311]
+Center Number :  38 Doc list :  [64, 86, 314, 319, 419, 566]
+Center Number :  39 Doc list :  [320, 330, 551]
+Center Number :  40 Doc list :  [175, 227, 237, 273, 280, 289, 295, 335, 359, 415, 481, 583, 653, 658]
+Center Number :  41 Doc list :  [392]
+Center Number :  42 Doc list :  [27, 32, 51, 113, 130, 158, 165, 226, 252, 276, 340, 341, 410, 413, 474, 656, 666]
+Center Number :  43 Doc list :  [421, 425, 505]
+Center Number :  44 Doc list :  [453]
+Center Number :  45 Doc list :  [56, 420, 456, 457, 482]
+Center Number :  46 Doc list :  [201, 211, 233, 282, 288, 351, 403, 404, 445, 446, 468, 584, 629, 660, 674]
+Center Number :  47 Doc list :  [313, 469, 517]
+Center Number :  48 Doc list :  [99, 220, 231, 291, 296, 302, 375, 480, 541]
+Center Number :  49 Doc list :  [89, 178, 492]
+
+
+Counting Number :  7 
+
+
+
+
+
+
+Start Clustering
+ K value :  50 / L value :  5 / Multipler :  0.4 / Number of first Center :  5 / All Topic number :  25 / Number of terms in All :  20 / Term Pass count :  20 Individual Topic Number :  7 Individual Terms number :  20 
+
+
+Starting Choosing
+Finishing Posibility Choosing : 129
+Reducing Start
+129
+128
+127
+126
+125
+124
+123
+122
+121
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+Reducing Done
+
+
+Center Number :  0 Doc list :  [8, 30, 33, 55, 63, 94, 106, 139, 141, 145, 154, 159, 163, 171, 173, 179, 184, 186, 205, 206, 249, 271, 279, 346, 354, 366, 370, 444, 479, 486, 509, 516, 525, 559, 579, 580, 592, 596, 605, 671]
+Center Number :  1 Doc list :  [17, 50, 62, 101, 116, 315, 332, 348, 447, 521, 547, 626, 634, 651, 664]
+Center Number :  2 Doc list :  [10, 42]
+Center Number :  3 Doc list :  [11, 14, 38, 68, 71, 90, 107, 111, 140, 157, 192, 208, 210, 223, 236, 239, 257, 261, 284, 293, 298, 303, 331, 338, 352, 353, 379, 386, 390, 399, 405, 408, 434, 435, 458, 459, 473, 513, 533, 571, 574, 588, 614, 620, 632, 633, 645]
+Center Number :  4 Doc list :  [15, 46, 70, 89, 161, 385, 490, 526]
+Center Number :  5 Doc list :  [520, 531]
+Center Number :  6 Doc list :  [6, 20, 67, 169, 200, 259, 277, 336, 402, 449, 456, 457, 492, 535, 537, 576]
+Center Number :  7 Doc list :  [25, 58, 98, 112, 115, 177, 224, 230, 233, 237, 282, 288, 289, 295, 329, 344, 351, 369, 373, 376, 401, 403, 424, 427, 451, 461, 462, 464, 468, 481, 501, 558, 567, 584, 597, 598, 604, 610, 629]
+Center Number :  8 Doc list :  [1, 18, 19, 24, 26, 29, 31, 48, 49, 75, 77, 97, 105, 121, 135, 143, 172, 212, 234, 262, 267, 278, 299, 325, 364, 396, 420, 436, 488, 491, 518, 528, 552, 570, 630]
+Center Number :  9 Doc list :  [43, 142, 339, 349, 357, 374, 494, 523, 538, 539, 553, 646, 650, 655, 661]
+Center Number :  10 Doc list :  [3, 44, 56, 59, 118, 150, 243, 265, 266, 270, 275, 333, 360, 412, 430, 448, 477, 510, 514, 517, 519, 563, 569, 617, 627, 635, 675]
+Center Number :  11 Doc list :  [64, 86, 314, 319, 419, 482, 566]
+Center Number :  12 Doc list :  [69, 407]
+Center Number :  13 Doc list :  [39, 74, 104, 109, 147, 153, 232, 310, 316, 345, 347, 362, 536, 565, 593, 616, 636]
+Center Number :  14 Doc list :  [12, 13, 28, 34, 35, 65, 85, 126, 162, 188, 201, 211, 253, 292, 309, 328, 367, 381, 404, 409, 417, 418, 432, 443, 445, 446, 463, 478, 493, 503, 524, 557, 562, 578, 582, 589, 611, 623, 644, 652, 660, 674]
+Center Number :  15 Doc list :  [57, 213, 260, 269, 392, 595, 613, 669]
+Center Number :  16 Doc list :  [27, 32, 51, 113, 130, 158, 165, 226, 229, 252, 276, 340, 341, 383, 410, 413, 440, 474, 542, 656, 666]
+Center Number :  17 Doc list :  [255, 355, 618]
+Center Number :  18 Doc list :  [76, 100, 108, 149, 199]
+Center Number :  19 Doc list :  [82, 131, 294, 308, 359, 496, 624, 625]
+Center Number :  20 Doc list :  [45, 72, 81, 586, 628]
+Center Number :  21 Doc list :  [16, 99, 110, 119, 189, 220, 264, 290, 296, 302, 321, 322, 327, 375, 502, 507, 512, 541, 544, 564, 575, 591, 601, 663]
+Center Number :  22 Doc list :  [37, 120, 168, 183, 225, 228, 238, 268, 414, 426, 437, 475]
+Center Number :  23 Doc list :  [125, 128, 144, 398, 483, 577, 642, 654]
+Center Number :  24 Doc list :  [52, 54, 96, 129, 133, 178, 214, 297, 318, 323, 416, 594]
+Center Number :  25 Doc list :  [53, 84, 87, 93, 123, 148, 167, 197, 235, 246, 380, 391, 423, 431, 450, 455, 527, 643, 648, 668, 676]
+Center Number :  26 Doc list :  [2, 23, 73, 137, 146, 151, 170, 187, 317, 324, 326, 342, 356, 363, 388, 389, 400, 429, 471, 484, 485, 500, 530, 556, 590, 608, 609, 619, 659]
+Center Number :  27 Doc list :  [21, 22, 41, 60, 61, 66, 95, 102, 114, 124, 136, 138, 155, 160, 164, 176, 182, 195, 203, 207, 209, 219, 221, 244, 247, 248, 258, 283, 287, 307, 334, 337, 361, 368, 387, 428, 460, 487, 497, 498, 515, 534, 543, 545, 549, 550, 554, 555, 560, 581, 585, 587, 602, 603, 607, 638, 640, 647, 657, 672, 673, 678]
+Center Number :  28 Doc list :  [175, 273, 280, 300, 350, 394, 395, 606, 653, 658]
+Center Number :  29 Doc list :  [78, 152, 285, 371, 372, 433, 511, 529, 568, 621, 637]
+Center Number :  30 Doc list :  [4, 122, 134, 181, 218, 242, 245, 286, 291, 343, 382, 438, 465, 480, 489, 522, 546, 561, 667]
+Center Number :  31 Doc list :  [156, 250, 506]
+Center Number :  32 Doc list :  [91, 174, 422]
+Center Number :  33 Doc list :  [127, 193, 194]
+Center Number :  34 Doc list :  [215, 472]
+Center Number :  35 Doc list :  [166, 185, 196, 202, 216, 256, 301, 495, 631]
+Center Number :  36 Doc list :  [40, 79, 92, 132, 180, 190, 191, 222, 227, 272, 306, 377, 378, 439, 508, 583, 599, 612, 639, 641, 649, 662, 665, 670]
+Center Number :  37 Doc list :  [240]
+Center Number :  38 Doc list :  [263, 274, 281, 312, 466, 467, 540, 551, 615]
+Center Number :  39 Doc list :  [117, 304]
+Center Number :  40 Doc list :  [313, 469]
+Center Number :  41 Doc list :  [7, 47, 251, 335, 499]
+Center Number :  42 Doc list :  [83, 198, 231, 311, 358, 548]
+Center Number :  43 Doc list :  [254, 365, 393, 677]
+Center Number :  44 Doc list :  [36, 88, 384, 397, 441, 470, 572, 573]
+Center Number :  45 Doc list :  [411]
+Center Number :  46 Doc list :  [9, 241, 305, 442, 452, 453, 532, 622]
+Center Number :  47 Doc list :  [80, 103, 406, 454]
+Center Number :  48 Doc list :  [320, 330, 504]
+Center Number :  49 Doc list :  [5, 204, 217, 415, 421, 425, 476, 505, 600]
+
+
+Counting Number :  8 
+
+
+
+
+
+
+Start Clustering
+ K value :  50 / L value :  5 / Multipler :  0.4 / Number of first Center :  5 / All Topic number :  25 / Number of terms in All :  20 / Term Pass count :  20 Individual Topic Number :  7 Individual Terms number :  20 
+
+
+Starting Choosing
+Finishing Posibility Choosing : 129
+Reducing Start
+129
+128
+127
+126
+125
+124
+123
+122
+121
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+Reducing Done
+
+
+Center Number :  0 Doc list :  [2, 14, 23, 37, 40, 47, 57, 84, 92, 107, 111, 137, 151, 157, 170, 183, 187, 192, 217, 227, 237, 239, 257, 261, 269, 272, 284, 289, 293, 298, 303, 324, 326, 342, 344, 356, 377, 386, 400, 401, 408, 429, 462, 473, 476, 484, 485, 556, 572, 583, 588, 604, 608, 609, 610, 612, 613, 619, 633, 641, 649, 659, 662]
+Center Number :  1 Doc list :  [514]
+Center Number :  2 Doc list :  [4, 5, 12, 13, 17, 115, 131, 152, 162, 177, 201, 204, 232, 282, 292, 315, 316, 376, 381, 403, 415, 421, 424, 432, 433, 451, 501, 511, 562, 565, 568, 582, 597, 598, 621, 637]
+Center Number :  3 Doc list :  [3, 34, 72, 121, 491, 517, 578, 627, 628, 652, 675]
+Center Number :  4 Doc list :  [9, 59, 119, 241, 305, 375, 442, 507, 622]
+Center Number :  5 Doc list :  [25, 38, 58, 68, 71, 112, 140, 142, 218, 224, 230, 338, 339, 357, 373, 427, 438, 461, 464, 465, 513, 522, 523, 539, 558, 567, 571, 614, 646, 651, 655, 661]
+Center Number :  6 Doc list :  [10, 42, 213, 595]
+Center Number :  7 Doc list :  [32, 51, 61, 66, 79, 102, 113, 114, 124, 132, 164, 165, 190, 191, 197, 221, 222, 226, 229, 244, 252, 276, 306, 307, 334, 337, 378, 383, 439, 440, 455, 471, 474, 508, 527, 530, 554, 555, 590, 599, 639, 647, 654, 665, 666, 670]
+Center Number :  8 Doc list :  [64, 86, 161, 169, 319, 490, 526, 535, 537]
+Center Number :  9 Doc list :  [35, 43, 85, 88, 126, 188, 253, 299, 309, 349, 367, 384, 397, 417, 445, 446, 463, 470, 520, 532, 538, 570, 573, 589, 650]
+Center Number :  10 Doc list :  [69, 312, 314, 540]
+Center Number :  11 Doc list :  [18, 28, 48, 65, 83, 198, 211, 220, 231, 264, 290, 311, 321, 322, 327, 328, 374, 404, 409, 418, 478, 493, 502, 524, 541, 544, 548, 553, 575, 591, 601, 611, 623, 636, 644, 660, 674]
+Center Number :  12 Doc list :  [99, 122, 181, 240, 242, 245, 251, 286, 291, 343, 345, 382, 480, 546, 561, 667]
+Center Number :  13 Doc list :  [80, 320, 551]
+Center Number :  14 Doc list :  [175, 273, 280, 294, 295, 300, 308, 335, 359, 394, 395, 496, 503, 547, 557, 624, 625, 653, 658]
+Center Number :  15 Doc list :  [15, 46, 103, 406, 454]
+Center Number :  16 Doc list :  [54]
+Center Number :  17 Doc list :  [19, 44, 45, 49, 56, 118, 135, 150, 234, 265, 275, 333, 360, 364, 396, 430, 448, 456, 457, 477, 482, 488, 518, 563, 576, 635]
+Center Number :  18 Doc list :  [6, 20, 67, 89, 200, 259, 277, 336, 365, 393, 449, 492, 615]
+Center Number :  19 Doc list :  [1, 24, 29, 31, 75, 77, 96, 97, 172, 262, 267, 297, 358, 412, 416, 528]
+Center Number :  20 Doc list :  [8, 30, 33, 55, 63, 94, 106, 128, 139, 141, 144, 145, 154, 159, 163, 171, 173, 179, 186, 205, 206, 271, 279, 346, 354, 366, 370, 444, 479, 486, 509, 516, 525, 559, 577, 580, 592, 605, 642, 671]
+Center Number :  21 Doc list :  [81]
+Center Number :  22 Doc list :  [285, 296, 302, 350, 519, 529, 606]
+Center Number :  23 Doc list :  [16, 26, 39, 74, 104, 105, 109, 143, 147, 153, 189, 212, 243, 278, 325, 347, 362, 436, 443, 531, 536, 552, 564, 586, 616, 630, 663]
+Center Number :  24 Doc list :  [27, 36, 90, 98, 130, 223, 233, 288, 329, 351, 363, 369, 410, 441, 468, 481, 533, 584, 629]
+Center Number :  25 Doc list :  [50, 62, 82, 101, 110, 116, 255, 332, 348, 355, 447, 494, 512, 521, 618, 626, 634, 664]
+Center Number :  26 Doc list :  [87, 127, 193, 194]
+Center Number :  27 Doc list :  [129, 178]
+Center Number :  28 Doc list :  [21, 22, 41, 53, 60, 93, 95, 120, 123, 125, 136, 138, 148, 155, 158, 160, 167, 168, 176, 182, 195, 203, 228, 235, 238, 246, 248, 258, 268, 287, 361, 368, 380, 387, 391, 398, 414, 426, 431, 437, 450, 460, 483, 487, 497, 498, 515, 534, 542, 543, 545, 549, 550, 560, 581, 585, 587, 596, 602, 603, 607, 638, 640, 643, 648, 656, 672, 673, 678]
+Center Number :  29 Doc list :  [184, 219, 249, 579, 657]
+Center Number :  30 Doc list :  [76, 100, 108, 149, 199, 669]
+Center Number :  31 Doc list :  [156, 250, 266, 506]
+Center Number :  32 Doc list :  [677]
+Center Number :  33 Doc list :  [91, 174, 422]
+Center Number :  34 Doc list :  [7, 146, 207, 209, 247, 260, 283, 423, 428, 499, 668, 676]
+Center Number :  35 Doc list :  [52, 133, 214, 318, 323, 402, 419, 566, 594]
+Center Number :  36 Doc list :  [215, 472]
+Center Number :  37 Doc list :  [78, 166, 185, 196, 202, 216, 256, 301, 495, 631]
+Center Number :  38 Doc list :  [254]
+Center Number :  39 Doc list :  [263, 274, 281, 466, 467]
+Center Number :  40 Doc list :  [117, 304, 371, 372]
+Center Number :  41 Doc list :  [310, 392, 593]
+Center Number :  42 Doc list :  [11, 134, 180, 208, 210, 236, 331, 352, 353, 379, 390, 399, 405, 434, 435, 458, 459, 489, 574, 620, 632, 645]
+Center Number :  43 Doc list :  [407]
+Center Number :  44 Doc list :  [420]
+Center Number :  45 Doc list :  [452, 453]
+Center Number :  46 Doc list :  [313, 469]
+Center Number :  47 Doc list :  [70, 330, 504]
+Center Number :  48 Doc list :  [73, 225, 317, 340, 341, 388, 389, 411, 413, 425, 475, 500, 505, 600]
+Center Number :  49 Doc list :  [270, 385, 510, 569, 617]
+
+
+Counting Number :  9 
+
+
+
+
+
+
+Start Clustering
+ K value :  50 / L value :  5 / Multipler :  0.4 / Number of first Center :  5 / All Topic number :  25 / Number of terms in All :  20 / Term Pass count :  20 Individual Topic Number :  7 Individual Terms number :  20 
+
+
+Starting Choosing
+Finishing Posibility Choosing : 130
+Reducing Start
+130
+129
+128
+127
+126
+125
+124
+123
+122
+121
+120
+119
+118
+117
+116
+115
+114
+113
+112
+111
+110
+109
+108
+107
+106
+105
+104
+103
+102
+101
+100
+99
+98
+97
+96
+95
+94
+93
+92
+91
+90
+89
+88
+87
+86
+85
+84
+83
+82
+81
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+69
+68
+67
+66
+65
+64
+63
+62
+61
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+Reducing Done
+
+
+Center Number :  0 Doc list :  [1, 9, 16, 35, 85, 119, 126, 188, 241, 267, 290, 299, 305, 309, 322, 328, 349, 355, 367, 409, 418, 442, 452, 478, 502, 507, 524, 531, 532, 538, 544, 570, 575, 591, 622, 623, 644, 650]
+Center Number :  1 Doc list :  [514]
+Center Number :  2 Doc list :  [3, 34, 232, 285, 491, 493, 519, 529, 578, 606, 652]
+Center Number :  3 Doc list :  [72, 121, 254, 396, 517, 635, 675]
+Center Number :  4 Doc list :  [6, 20, 67, 89, 169, 277, 336, 365, 393, 406, 449, 454, 492, 537, 563, 576]
+Center Number :  5 Doc list :  [7, 37, 47, 79, 84, 120, 132, 146, 183, 197, 209, 227, 229, 235, 260, 283, 284, 317, 324, 326, 400, 414, 527, 530, 556, 590, 608, 639, 647, 659, 668]
+Center Number :  6 Doc list :  [17, 50, 101, 116, 255, 332, 348, 390, 395, 433, 434, 447, 521, 547, 626, 634, 651, 664]
+Center Number :  7 Doc list :  [10, 42, 213, 595]
+Center Number :  8 Doc list :  [18, 19, 49, 56, 135, 150, 234, 360, 364, 430, 477, 488, 518, 552, 611, 627, 636]
+Center Number :  9 Doc list :  [24, 29, 31, 59, 75, 96, 97, 118, 262, 265, 270, 275, 333, 412, 416, 420, 453, 456, 457, 510, 528, 535, 617]
+Center Number :  10 Doc list :  [26, 104, 153, 243, 278, 327, 536, 564, 569]
+Center Number :  11 Doc list :  [99, 220, 231, 291, 296, 302, 321, 374, 375, 404, 480, 523, 541]
+Center Number :  12 Doc list :  [27, 32, 51, 113, 130, 158, 165, 226, 252, 276, 340, 341, 383, 410, 413, 474, 542, 656, 666]
+Center Number :  13 Doc list :  [8, 30, 33, 55, 63, 94, 106, 128, 139, 141, 144, 145, 154, 159, 163, 171, 173, 179, 186, 199, 205, 206, 238, 271, 279, 346, 354, 366, 370, 426, 437, 444, 479, 486, 509, 516, 525, 559, 577, 580, 592, 596, 605, 642, 671]
+Center Number :  14 Doc list :  [134, 331, 353, 435, 465, 489, 546, 645, 667]
+Center Number :  15 Doc list :  [80, 103, 551]
+Center Number :  16 Doc list :  [14, 38, 40, 57, 68, 71, 107, 112, 151, 157, 251, 257, 261, 269, 293, 298, 303, 329, 338, 352, 369, 376, 377, 382, 386, 401, 408, 461, 462, 473, 513, 567, 571, 588, 613, 614, 633]
+Center Number :  17 Doc list :  [86, 318, 402, 419, 448, 482, 566]
+Center Number :  18 Doc list :  [69, 263]
+Center Number :  19 Doc list :  [12, 13, 82, 88, 115, 131, 162, 201, 253, 282, 292, 381, 384, 397, 403, 417, 432, 445, 446, 451, 463, 470, 496, 501, 503, 520, 557, 562, 573, 582, 589, 597, 598, 624]
+Center Number :  20 Doc list :  [46, 70]
+Center Number :  21 Doc list :  [2, 23, 36, 73, 90, 98, 111, 192, 233, 237, 239, 288, 289, 342, 344, 363, 415, 440, 441, 468, 476, 481, 484, 485, 533, 572, 583, 584, 604, 609, 610]
+Center Number :  22 Doc list :  [21, 22, 41, 53, 60, 66, 76, 87, 93, 95, 100, 108, 114, 123, 124, 125, 136, 138, 148, 149, 155, 160, 164, 167, 168, 176, 182, 195, 203, 207, 221, 225, 228, 244, 246, 247, 248, 258, 268, 287, 307, 334, 337, 361, 368, 380, 387, 391, 398, 411, 423, 431, 450, 455, 460, 475, 483, 487, 497, 498, 515, 534, 543, 545, 549, 550, 554, 555, 560, 581, 585, 587, 602, 603, 607, 638, 640, 643, 648, 654, 669, 672, 673, 676, 678]
+Center Number :  23 Doc list :  [78, 137, 152, 177, 204, 256, 500, 511]
+Center Number :  24 Doc list :  [81, 586, 628]
+Center Number :  25 Doc list :  [45, 52, 54, 133, 143, 214, 297, 323, 325, 358, 594]
+Center Number :  26 Doc list :  [83, 198, 311, 548]
+Center Number :  27 Doc list :  [211, 310, 315, 316, 392, 494, 565, 593]
+Center Number :  28 Doc list :  [200, 259, 274, 281, 466, 467, 615]
+Center Number :  29 Doc list :  [28, 39, 48, 62, 65, 74, 77, 105, 109, 110, 147, 156, 189, 212, 250, 264, 347, 362, 436, 443, 512, 601, 616, 630, 660, 663, 674]
+Center Number :  30 Doc list :  [129, 178]
+Center Number :  31 Doc list :  [175, 240, 273, 280, 294, 295, 300, 308, 359, 625, 653, 658]
+Center Number :  32 Doc list :  [25, 43, 58, 140, 142, 218, 223, 224, 230, 339, 351, 357, 373, 424, 427, 438, 464, 522, 539, 553, 558, 629, 632, 646, 655, 661]
+Center Number :  33 Doc list :  [184, 219, 249, 428, 579, 657]
+Center Number :  34 Doc list :  [677]
+Center Number :  35 Doc list :  [11, 61, 170, 180, 187, 190, 191, 208, 210, 217, 236, 306, 379, 388, 389, 399, 405, 429, 439, 458, 459, 471, 499, 574, 619, 620]
+Center Number :  36 Doc list :  [91, 174, 422]
+Center Number :  37 Doc list :  [166, 185, 196, 202, 216, 301, 495, 631]
+Center Number :  38 Doc list :  [127, 193, 194]
+Center Number :  39 Doc list :  [4, 122, 181, 242, 245, 286, 335, 343, 345, 350, 394, 561, 568, 621, 637]
+Center Number :  40 Doc list :  [172, 266, 506, 618]
+Center Number :  41 Doc list :  [92, 102, 222, 272, 356, 378, 508, 599, 612, 641, 649, 662, 665, 670]
+Center Number :  42 Doc list :  [117, 304, 371, 372]
+Center Number :  43 Doc list :  [64, 312, 314, 540]
+Center Number :  44 Doc list :  [161, 319, 490, 526]
+Center Number :  45 Doc list :  [320, 330, 504]
+Center Number :  46 Doc list :  [15, 385]
+Center Number :  47 Doc list :  [5, 421, 425, 505, 600]
+Center Number :  48 Doc list :  [313, 469]
+Center Number :  49 Doc list :  [44, 215, 407, 472]
+
+
+Counting Number :  10 
+
+
+
+
+
+Process finished with exit code 0
