@@ -1,0 +1,393 @@
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0,[450, 440]
+0,1,0,1,Nothing,Nothing,spread,Nothing,Nothing,0,[460, 450]
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0,[470, 460]
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0,[480, 470]
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0,[490, 480]
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0,[500, 490]
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0,[510, 500]
+1,0,1,0,Nothing,Nothing,Nothing,Nothing,charge,0,[500, 490]
+1,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,0,[490, 480]
+1,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,0,[480, 470]
+1,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,0,[470, 460]
+1,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,0,[460, 450]
+1,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,0,[450, 440]
+1,0,0,0,Nothing,Nothing,spread,Nothing,Nothing,0,[450, 430]
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0,[450, 420]
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0,[450, 410]
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0,[450, 400]
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0,[450, 390]
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0,[450, 380]
+1,0,1,0,Nothing,multi,Nothing,Nothing,Nothing,0,[440, 370]
+1,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,0,[430, 360]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,1,[420, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,1,[410, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,1,[400, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,1,[390, 360.0]
+0,1,0,1,Nothing,multi,Nothing,Nothing,Nothing,1,[400, 370.0]
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,1,[410, 380.0]
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,1,[420, 390.0]
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,1,[430, 400.0]
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,1,[440, 410.0]
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,1,[450, 420.0]
+1,0,0,0,normal,Nothing,Nothing,Nothing,Nothing,1,[450, 410.0]
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[450, 400.0]
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[450, 390.0]
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[450, 380.0]
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[450, 370.0]
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[450, 360.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[450, 360.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[450, 360.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[450, 360.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[450, 360.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[450, 360.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[450, 360.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,charge,2,[450, 360.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[450, 360.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[450, 360.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[450, 360.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[450, 360.0]
+0,0,0,1,normal,Nothing,Nothing,Nothing,Nothing,2,[460, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,2,[470, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,2,[480, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,2,[490, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,2,[500, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,2,[510, 360.0]
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[510, 370.0]
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[510, 380.0]
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[510, 390.0]
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[510, 400.0]
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[510, 410.0]
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[510, 420.0]
+0,0,0,0,Nothing,Nothing,Nothing,bomb,Nothing,2,[510, 420.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[510, 420.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[510, 420.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[510, 420.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[510, 420.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[510, 420.0]
+1,0,1,0,Nothing,Nothing,Nothing,Nothing,charge,2,[500, 410.0]
+1,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[490, 400.0]
+1,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[480, 390.0]
+1,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[470, 380.0]
+1,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[460, 370.0]
+1,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[450, 360.0]
+0,0,1,0,Nothing,Nothing,spread,Nothing,Nothing,2,[440, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[430, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[420, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[410, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[400, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[390, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,bomb,Nothing,2,[380, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[370, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[360, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[350, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[340, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[330, 360.0]
+0,0,0,1,Nothing,Nothing,spread,Nothing,Nothing,2,[340, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,2,[350, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,2,[360, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,2,[370, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,2,[380, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,2,[390, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,charge,2,[380, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[370, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[360, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[350, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[340, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[330, 360.0]
+0,0,1,0,normal,Nothing,Nothing,Nothing,Nothing,2,[320, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[310, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[300, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[290, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,2,[280, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,bomb,Nothing,2,[290, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,2,[300, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,2,[310, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,2,[320, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,2,[330, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,2,[340, 360.0]
+0,0,0,1,normal,Nothing,Nothing,Nothing,Nothing,2,[350, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,3,[360, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,3,[370, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,3,[380, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,3,[390, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,3,[400, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,bomb,Nothing,3,[410, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,3,[420, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,3,[430, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,3,[440, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,4,[450, 360.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,4,[460, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,4,[450, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,4,[440, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,4,[430, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,4,[420, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,4,[410, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,4,[400, 360.0]
+0,1,1,0,normal,Nothing,Nothing,Nothing,Nothing,4,[390, 370.0]
+0,1,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,4,[380, 380.0]
+0,1,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,4,[370, 390.0]
+0,1,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,4,[360, 400.0]
+0,1,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,4,[350, 410.0]
+0,1,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,4,[340, 420.0]
+0,0,0,1,Nothing,Nothing,Nothing,bomb,Nothing,4,[350, 420.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,4,[360, 420.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,4,[370, 420.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,4,[380, 420.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,4,[390, 420.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,4,[400, 420.0]
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,4,[410, 430.0]
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,4,[420, 440.0]
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,4,[430, 450.0]
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,4,[440, 460.0]
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,4,[450, 470.0]
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,5,[460, 480.0]
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,5,[470, 490.0]
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,5,[480, 500.0]
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,5,[490, 510.0]
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,5,[500, 520.0]
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,5,[510, 530.0]
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,5,[520, 540.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,charge,5,[520, 540.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,5,[520, 540.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,5,[520, 540.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,5,[520, 540.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,5,[520, 540.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,5,[520, 540.0]
+1,0,0,1,normal,Nothing,Nothing,Nothing,Nothing,5,[530, 530.0]
+1,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,5,[540, 520.0]
+1,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,5,[550, 510.0]
+1,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,5,[560, 500.0]
+1,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,5,[570, 490.0]
+1,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,5,[580, 480.0]
+1,0,1,0,Nothing,Nothing,Nothing,Nothing,charge,5,[570, 470.0]
+1,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,5,[560, 460.0]
+1,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,5,[550, 450.0]
+1,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,5,[540, 440.0]
+1,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,5,[530, 430.0]
+1,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,5,[520, 420.0]
+1,0,0,1,Nothing,Nothing,spread,Nothing,Nothing,5,[530, 410.0]
+1,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,5,[540, 400.0]
+1,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,5,[550, 390.0]
+1,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,6,[560, 380.0]
+1,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,6,[570, 370.0]
+1,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,6,[580, 360.0]
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,6,[580, 370.0]
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,6,[580, 380.0]
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,6,[580, 390.0]
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,6,[580, 400.0]
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,6,[580, 410.0]
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,6,[580, 420.0]
+1,0,1,0,Nothing,Nothing,Nothing,bomb,Nothing,6,[570, 410.0]
+1,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,6,[560, 400.0]
+1,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,6,[550, 390.0]
+1,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,6,[540, 380.0]
+1,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,6,[530, 370.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,charge,6,[540, 370.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,6,[550, 370.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,6,[560, 370.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,6,[570, 370.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,6,[580, 370.0]
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,6,[590, 370.0]
+1,0,1,0,Nothing,Nothing,Nothing,Nothing,charge,6,[580, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,6,[570, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,6,[560, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,6,[550, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,6,[540, 360.0]
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,6,[530, 360.0]
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,charge,6,[530, 370.0]
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,6,[530, 380.0]
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,6,[530, 390.0]
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,6,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,7,[530, 400.0]
+sequence_end // defeated : None
+pattern description : 0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+1,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,0,normal,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,0,normal,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,0,normal,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,0,normal,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,0,normal,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,0,normal,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,0,normal,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,0,normal,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,0,normal,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,0,normal,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,0,normal,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,0,normal,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,0,normal,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,0,normal,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,0,normal,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,0,normal,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,0,normal,Nothing,Nothing,Nothing,Nothing,0
+0,0,0,0,normal,Nothing,Nothing,Nothing,Nothing,0
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,0
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,3
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,4
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,5
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,1,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,0,0,1,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,0,1,0,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,6
+0,0,0,0,Nothing,Nothing,Nothing,Nothing,Nothing,6
+sequence_end // defeated : None
+pattern description : just clock moving
